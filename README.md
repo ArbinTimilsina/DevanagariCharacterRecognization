@@ -38,4 +38,4 @@ python -m ipykernel install --user --name envDevRecognization --display-name "en
 ```
 jupyter notebook model_training.ipynb
 ```
-Make sure to change the kernel to envAutoComplete using the drop-down menu (Kernel > Change kernel > envDevRecognization)
+Make sure to change the kernel to envDevRecognization using the drop-down menu (Kernel > Change kernel > envDevRecognization)
